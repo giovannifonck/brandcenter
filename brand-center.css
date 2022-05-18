@@ -4,7 +4,7 @@
     content: "Faca" !important;
 }
 
-.type_heading-xxlarge, .type_heading-xxlarge-tertiary {
+h1 {
     font-size: 110px !important;
     line-height: 48px;
     font-weight: 700;
