@@ -1,3 +1,9 @@
 .kLMvdK::after {
     content: "Faca" !important;
 }
+
+.type_heading-xxlarge, .type_heading-xxlarge-tertiary {
+    font-size: 110px;
+    line-height: 48px;
+    font-weight: 700;
+}
