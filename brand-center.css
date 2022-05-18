@@ -3,7 +3,7 @@
 }
 
 .type_heading-xxlarge, .type_heading-xxlarge-tertiary {
-    font-size: 110px;
+    font-size: 110px !important;
     line-height: 48px;
     font-weight: 700;
 }
